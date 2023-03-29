@@ -12,4 +12,8 @@ Still figuring out where to get the data from but i guess by the name you can ge
 
 THis is all I have to do make this work (excluding website)
 
---- Maybe my minor project for this year in the uni ---
+--- Maybe my minor project for this year in the uni --- REALLY!!, What was i thinking ??
+
+
+
+use Style GAN 3 - https://github.com/NVlabs/stylegan3
